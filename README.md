@@ -15,4 +15,4 @@ and you can then replace `Math` with `Matt` throughout your code, finally allowi
 
 ## What if my name isn’t Matt Round?
 
-Matt.js is equally useful for Matts with other surnames such as Floor, Abs, Log, Max, Pi and [many more](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math).
+Matt.js is equally useful for Matts with other surnames such as Floor, Random, Abs, Log, Max, Pi and [many more](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math).
